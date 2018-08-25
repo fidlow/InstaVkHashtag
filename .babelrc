@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "transform-strict-mode"
+  ],
+  "presets": [
+    "es2015"
+  ],
+  "ignore": [
+      "./node_modules"
+    ]
+}

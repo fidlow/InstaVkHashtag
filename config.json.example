@@ -1,0 +1,36 @@
+{
+  "azure": {
+    "userName": "user", 
+    "password": "pass",
+    "server": "example.database.windows.net",
+    "options": {
+      "encrypt": true,
+      "database": "exampleDB"
+    }
+  },
+  "postgres": {
+    "host": "example.com",
+    "port": 5432,
+    "user": "user",
+    "database": "exampleDB",
+    "password": "pass"
+  },
+  "instagram": {
+    "token": "9999999999.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "username": "user",
+    "password": "pass"
+  },
+  "telegram": {
+    "token": "999999999:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  "vk": {
+    "id": "999999999",
+    "login": "+15555555555",
+    "phone": "+15555555555",
+    "password": "pass",
+    "token": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "app": "9999999",
+    "key": "AAAAAAAAAAAAAAAAAAAA",
+    "limit": 3
+  }
+}

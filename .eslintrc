@@ -1,0 +1,44 @@
+﻿{
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "classes": true,
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "rules": {
+    "semi": 1,
+    "semi-spacing": 1
+  }
+  /* See all the pre-defined configs here: https://www.npmjs.com/package/eslint-config-defaults
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "ecmaFeatures": {
+      "classes": true,
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "eqeqeq": 2,
+    "comma-dangle": 1,
+    "no-console": 0,
+    "no-debugger": 1,
+    "no-extra-semi": 1,
+    "no-extra-parens": 1,
+    "no-irregular-whitespace": 0,
+    "no-undef": 0,
+    "no-unused-vars": 0,
+    "semi": 1,
+    "semi-spacing": 1,
+    "valid-jsdoc": [
+      2,
+      { "requireReturn": false }
+    ]
+  } */
+}
